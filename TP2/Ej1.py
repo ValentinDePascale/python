@@ -1,14 +1,16 @@
-def cadena_reversa():
-    texto = input("Ingrese la cadena de texto a invertir: ")
-   # print(f"Texto invertido: {texto[::-1]}")
-    lista = []
-    lista.append(texto)
-   
-    iterador_inverso = reversed(lista)
-    nueva_lista = list(iterador_inverso)
+def cadena_reversa(texto:str):
+    print(f"Texto invertido: {texto[::-1]}")
 
-    print(lista)
-
+def palindromo(texto:str):
+    textoInvertido = texto[::-1]
+    if texto.lower() == textoInvertido.lower():
+        print(f"El texto {texto} es un palindromo{textoInvertido} ")
+    else:
+        print(f"{texto} no es palindromo")        
 
 
-cadena_reversa()
+
+
+texto = input("Ingrese la cadena de texto a invertir: ")
+cadena_reversa(texto)
+palindromo(texto)
