@@ -3,6 +3,7 @@ import random
 class test:
     @staticmethod
     def ejecutar():
+        #constructores
         fecha1 = Fecha(9, 4, 2005)
         fecha2 = Fecha(27, 8, 2005)
 
