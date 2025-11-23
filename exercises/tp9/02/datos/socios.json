@@ -1,0 +1,30 @@
+[
+    {
+        "dni": 87654321,
+        "nombre": "María",
+        "apellido": "Gómez",
+        "mail": "maria.gomez@example.com",
+        "anio_nacimiento": 1985
+    },
+    {
+        "dni": 11223344,
+        "nombre": "Carlos",
+        "apellido": "López",
+        "mail": "carlos.lopez@example.com",
+        "anio_nacimiento": 2000
+    },
+    {
+        "dni": 44332211,
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "mail": "ana.martinez@example.com",
+        "anio_nacimiento": 1995
+    },
+    {
+        "dni": 12345678,
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "mail": "juan.perez@example.com",
+        "anio_nacimiento": 1990
+    }
+]
