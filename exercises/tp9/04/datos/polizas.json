@@ -1,0 +1,40 @@
+[
+    {
+        "numero": 1,
+        "incendio": 50000,
+        "explosion": 30000,
+        "robo": 20000
+    },
+    {
+        "numero": 2,
+        "incendio": 75000,
+        "explosion": 45000,
+        "robo": 25000
+    },
+    {
+        "numero": 3,
+        "incendio": 100000,
+        "explosion": 60000,
+        "robo": 40000
+    },
+    {
+        "numero": 4,
+        "incendio": 120000,
+        "explosion": 80000,
+        "robo": 50000,
+        "cant_personas": 50,
+        "monto_equipamiento": 30000,
+        "monto_mobiliario": 20000,
+        "monto_persona": 1000
+    },
+    {
+        "numero": 5,
+        "incendio": 150000,
+        "explosion": 90000,
+        "robo": 60000,
+        "cant_personas": 100,
+        "monto_equipamiento": 50000,
+        "monto_mobiliario": 40000,
+        "monto_persona": 1500
+    }
+]

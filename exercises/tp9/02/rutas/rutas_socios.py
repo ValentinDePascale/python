@@ -56,14 +56,9 @@ def actualizar_socio(dni):
             }), 200
 
         return jsonify({'mensaje':'No se pudo actualizar el socio'}), 404 
-
-
     except Exception as e:
         return jsonify({'error': str(e)}), 400
 
-
-    except Exception as e:
-        return jsonify({'mensaje':str(e)}), 400
 
 @bp_socios.route('/socios/<int:dni>', methods = ['DELETE'])
 def eliminar_socio(dni):
@@ -77,7 +72,5 @@ def eliminar_socio(dni):
             return jsonify({"mensaje": "Socio borrado correctamente"}), 200
         else:
             return jsonify({"mensaje": "No se pudo borrar el Socio"}), 404
-
-
     except Exception as e:
         return jsonify({'mensaje': str(e)}), 500
