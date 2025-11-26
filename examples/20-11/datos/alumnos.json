@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "legajo": "A001",
+        "nombre": "Juan",
+        "apellido": "Pérez"
+    },
+    {
+        "id": 2,
+        "legajo": "A002",
+        "nombre": "María",
+        "apellido": "López"
+    },
+    {
+        "id": 3,
+        "legajo": "A003",
+        "nombre": "Carlos",
+        "apellido": "García"
+    },
+    {
+        "id": 4,
+        "legajo": "A004",
+        "nombre": "Ana",
+        "apellido": "Torres"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "numero": 1,
+        "nombre": "Introducción a la Programación",
+        "enunciado": "Conceptos básicos de programación y primeros pasos."
+    },
+    {
+        "numero": 2,
+        "nombre": "Estructuras de Control",
+        "enunciado": "Uso de condicionales y bucles para el control del flujo del programa."
+    },
+    {
+        "numero": 3,
+        "nombre": "Funciones",
+        "enunciado": "Definición y uso de funciones para modularizar el código."
+    },
+    {
+        "numero": 4,
+        "nombre": "Estructuras de Datos",
+        "enunciado": "Introducción a listas, diccionarios y otros contenedores."
+    },
+    {
+        "numero": 5,
+        "nombre": "Programación Orientada a Objetos",
+        "enunciado": "Principios básicos de clases y objetos."
+    }
+]
